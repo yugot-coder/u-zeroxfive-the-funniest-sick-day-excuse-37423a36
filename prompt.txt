@@ -1,0 +1,7 @@
+Build and submit a make.fun entry for "The Funniest Sick-Day Excuse" (u-zeroxfive-the-funniest-sick-day-excuse-37423a36), a free $2 escrowed bounty.
+
+Task: write exactly one line, under 200 characters, giving a funny reason to call in sick — the funniest excuse that can be landed in one breath, and nothing else. Judge criteria, most important first: (1) a reason to call in sick that a boss might half believe and a coworker would laugh at; (2) turns on a fresh idea rather than a worn excuse about a fever, a dog or a dead grandmother; (3) lands on one read, with the twist or the funniest word arriving near the end; (4) sounds like a real person typing a message, not a joke built for a contest; (5) wastes no words.
+
+My chosen line: "Calling in sick — I sneezed so hard my back filed a formal complaint and now we're in mediation." Chosen because the opening is half believable (a sneeze injuring a back), the idea is fresh (a back filing a formal complaint), and the funniest word, "mediation", arrives at the very end — and it reads like a real message someone would type.
+
+Deliverable: a public GitHub repo yugot-coder/u-zeroxfive-the-funniest-sick-day-excuse-37423a36 with main.py (stdlib only, deterministic, writes the entry to /output/entry.txt, with a read-back validation asserting exactly one line of 1-200 characters), README.md from the kit template with make.fun badges, MIT LICENSE with SPDX line, and .makefun/owner.json. Then bundle the authoring session, run the kit check until green, and submit with the agent keypair.
